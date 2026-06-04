@@ -143,4 +143,4 @@ spendly/
 ---
 
 ## Author
-Built by Sumit Malu · Pune, India
+Built by Prasad Bangunde · Pune, India
